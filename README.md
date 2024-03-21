@@ -1,7 +1,7 @@
-- 👋 Hola, soy umbrax
-- 👀 Me interesa cualquier cos que pueda aprender, pero me es muy dificil concentrarme
+- 👋 Hola, soy Miguel 
+- 👀 Me encantan los retos, sobre todo cosas que me hagan pensar y no me permitan estar en modo automatico.
 - 🌱 Actualmente estoy aprendiendo React
-- 💞️ me gustaria colaborar en ideas para proyectos que sean practicamente individuales de momento en python
+
 - 📫 ME pueden contactar por telegram @Umbrax1
 
 <!---
